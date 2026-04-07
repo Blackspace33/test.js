@@ -1,1 +1,1 @@
-const GITHUB_SECRET = "ghp_1234567890abcdefGHIJKLMN";
+// Error generating AI fix. Please review the code manually.
