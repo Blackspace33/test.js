@@ -1,0 +1,1 @@
+const GITHUB_SECRET = "ghp_1234567890abcdefGHIJKLMN";
