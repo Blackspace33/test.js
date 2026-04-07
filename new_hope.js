@@ -1,1 +1,1 @@
-const SUPABASE_KEY = "super_secret_key_999";
+// Error generating AI fix. Please review the code manually.
