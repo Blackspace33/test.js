@@ -22,11 +22,11 @@ To mitigate these risks, follow these best practices:
 
 Instead of hardcoding your API key:
 ```javascript
-// const SUPABASE_KEY = "super_secret_key_999";
+// const SUPABASE_KEY = process.env.SUPABASE_KEY;
 ```
 Set your API key as an environment variable:
 ```javascript
-// process.env.SUPABASE_KEY = "super_secret_key_999";
+// process.env.SUPABASE_KEY = process.env.SUPABASE_KEY;
 ```
 Use the environment variable in your code:
 ```javascript
