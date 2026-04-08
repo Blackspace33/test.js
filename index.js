@@ -1,1 +1,1 @@
-const STRIPE_KEY = "sk_live_123456";
+const STRIPE_KEY = process.env.STRIPE_KEY;
